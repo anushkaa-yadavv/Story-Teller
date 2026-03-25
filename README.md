@@ -46,7 +46,7 @@ This project demonstrates the use of Python and basic AI logic to simulate dynam
 
 ---
 
-## 📌 Improvements Made
+##  Improvements Made
 
 * Enhanced story generation logic
 * Improved response quality
@@ -54,7 +54,7 @@ This project demonstrates the use of Python and basic AI logic to simulate dynam
 
 ---
 
-## 📈 Future Scope
+## Future Scope
 
 * Integrate advanced AI models
 * Add GUI for better user experience
@@ -62,7 +62,7 @@ This project demonstrates the use of Python and basic AI logic to simulate dynam
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Anushka Yadav
 
